@@ -1,4 +1,6 @@
 # Final Project : E-Learning Website
+## Developed using
+#### HTML CSS & JAVASCRIPT
 This project is focused on; 
 1. Providing computer lessons to primary (CBC), junior high school (CBC) and senior high school
 2. Later include other lessons and subjects taght in school
