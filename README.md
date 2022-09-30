@@ -2,7 +2,7 @@
 E-Learning website
 # Final Project : E-Learning Website
 This project is focused on; 
-1. Providing computer lessons 
+1. Providing computer lessons to primary (CBC), junior high school (CBC) and senior high school
 2. Later include other lessons and subjects taght in school
 ## E-Learning Website Name: Africa Let's Learn
 ### Table of Contents
@@ -20,6 +20,7 @@ The form is for collecting data from the learns that is to be stored in the data
 * Course details section
 Gives details about that lesson and one can enroll by selecting the enroll to learn button
 * Footer section
+The footer section contains links to different pages of the website and subscription for leaning newsletters still not functional
 2. About page
 It is made up of different sections
 * Header setion
@@ -28,10 +29,13 @@ It is made up of different sections
 * Partners section
 * Team section
 * Footer section
+The footer section contains links to different pages of the website and subscription for leaning newsletters still not functional
 3. Blog page
 It is meant to help the learner get more information about different lesson in the module. It has two sections
 * Category section
 * Article section
+* Footer section
+The footer section contains links to different pages of the website and subscription for leaning newsletters still not functional
 4. Lessons page
 It is made up of different sections
 * Header setion
@@ -39,6 +43,7 @@ It is made up of different sections
 * Course section
 * Course details section
 * Footer section
+The footer section contains links to different pages of the website and subscription for leaning newsletters still not functional
 5. Contact page
 It is made up of different sections
 * Header setion
@@ -46,3 +51,4 @@ It is made up of different sections
 * Course section
 * Course details section
 * Footer section
+The footer section contains links to different pages of the website and subscription for leaning newsletters still not functional
